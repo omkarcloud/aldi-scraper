@@ -1,0 +1,186 @@
+{
+ "data": {
+  "sku": "000000000747889001",
+  "name": "Air Fryer Accessories",
+  "brandName": "CROFTON",
+  "description": "Protect your Air Fryer and make cleaning up after dinner even easier!<ul><li>Dishwasher Safe</li><li>Heat resistant up to 230°C (approx.)</li><li>Choose from High Liner or Tray in Square or Rectangle, Waffle Liner 2 pack, Separator or Liner</li></ul>",
+  "urlSlugText": "crofton-air-fryer-accessories",
+  "canonical": "crofton-air-fryer-accessories-000000000747889001",
+  "useAbstractForCanonical": false,
+  "urlSlugTextAlternatives": [],
+  "metaTitle": "",
+  "metaDescription": "",
+  "metaKeywords": null,
+  "metaRobots": "index, follow",
+  "ageRestriction": null,
+  "alcohol": null,
+  "discontinued": false,
+  "discontinuedNote": null,
+  "notForSale": true,
+  "notForSaleReason": null,
+  "quantityMin": 1,
+  "quantityMax": 99,
+  "quantityInterval": 1,
+  "quantityDefault": 1,
+  "quantityUnit": "ea",
+  "weightType": "0",
+  "sellingSize": null,
+  "countryOrigin": null,
+  "energyClass": null,
+  "storageInstructions": null,
+  "usageInstructions": null,
+  "ingredients": null,
+  "legalDisclaimer": null,
+  "onSaleDateDisplay": "While Stock Lasts",
+  "onSaleDate": "2026-10-01",
+  "stockInformationAvailable": true,
+  "isAbstract": false,
+  "abstractSku": "000000000000747889",
+  "grade": null,
+  "isCustomerFacingApproved": false,
+  "isDropship": false,
+  "sellingUnitDisplay": null,
+  "price": {
+   "amount": 399,
+   "amountRelevant": 399,
+   "amountRelevantDisplay": "£3.99",
+   "bottleDeposit": 0,
+   "bottleDepositDisplay": "£0.00",
+   "comparison": null,
+   "comparisonDisplay": null,
+   "currencyCode": "GBP",
+   "currencySymbol": "£",
+   "perUnit": null,
+   "perUnitDisplay": null,
+   "wasPriceDisplay": null,
+   "additionalInfo": null,
+   "savingsDisplay": null,
+   "bottleDepositType": null,
+   "feeText": null
+  },
+  "countryExtensions": null,
+  "nutritionalClaims": [
+   {
+    "label": "Free from",
+    "value": "Nuts"
+   }
+  ],
+  "multiInformations": [],
+  "categories": [
+   {
+    "id": "1588161416584096",
+    "name": "SpecialBuys",
+    "urlSlugText": "specialbuys"
+   },
+   {
+    "id": "1588161416584105",
+    "name": "Kitchen",
+    "urlSlugText": "specialbuys/kitchen"
+   }
+  ],
+  "assets": [
+   {
+    "url": "https://dm.emea.cms.aldi.cx/is/image/aldiprodeu/product/jpg/scaleWidth/{width}/08d86716-eebc-46b0-8a0b-2a0bc880464a/{slug}",
+    "maxWidth": 2400,
+    "maxHeight": 3000,
+    "mimeType": "image/*",
+    "assetType": "FR01",
+    "alt": null,
+    "displayName": null
+   },
+   {
+    "url": "https://dm.emea.cms.aldi.cx/is/image/aldiprodeu/product/jpg/scaleWidth/{width}/850a03dc-1b1c-4c75-b3f6-3ed28a021f5a/{slug}",
+    "maxWidth": 2400,
+    "maxHeight": 3000,
+    "mimeType": "image/*",
+    "assetType": "GR01",
+    "alt": null,
+    "displayName": null
+   }
+  ],
+  "allergens": [],
+  "warnings": null,
+  "variants": {
+   "options": [
+    [
+     {
+      "sku": null
+     },
+     {
+      "sku": null
+     },
+     {
+      "sku": "000000000747889007"
+     }
+    ],
+    [
+     {
+      "sku": "000000000747889003"
+     },
+     {
+      "sku": "000000000747889006"
+     },
+     {
+      "sku": null
+     }
+    ],
+    [
+     {
+      "sku": "000000000747889001"
+     },
+     {
+      "sku": "000000000747889004"
+     },
+     {
+      "sku": null
+     }
+    ],
+    [
+     {
+      "sku": null
+     },
+     {
+      "sku": "000000000747889005"
+     },
+     {
+      "sku": null
+     }
+    ],
+    [
+     {
+      "sku": "000000000747889002"
+     },
+     {
+      "sku": null
+     },
+     {
+      "sku": null
+     }
+    ]
+   ],
+   "buckets": [
+    {
+     "label": "Colour",
+     "values": [
+      "Air Fryer Liner",
+      "Air Fryer Tray",
+      "High Liner",
+      "Separator Liner",
+      "Waffle Liner 2pk"
+     ],
+     "selected": "High Liner"
+    },
+    {
+     "label": "Design",
+     "values": [
+      "Rectangular",
+      "Square",
+      "Vertical"
+     ],
+     "selected": "Rectangular"
+    }
+   ]
+  },
+  "badges": []
+ }
+}

@@ -1,0 +1,159 @@
+{
+ "data": {
+  "sku": "000000000000182390",
+  "name": "Premium Pils 0,5 l",
+  "brandName": "BITBURGER PILS",
+  "description": "<ul>\n\t<li>Je 0,5-l-Dose</li>\n\t<li>Alkoholgehalt: 4,8 % Vol.</li>\n\t<li>Ab 16 Jahren</li>\n\t<li>Vollendeter hopfenbetonter Pilsgenuss kombiniert mit Leichtigkeit und Eleganz, dazu ein kristallklares, sonniges Strohgelb und ein anhaltender, feinporiger Schaum: Nur aus besten Rohstoffen nach deutschem Reinheitsgebot gebraut, überzeugt das Bitburger Premium Pils</li>\n</ul>",
+  "urlSlugText": "bitburger-pils-premium-pils-0-5-l",
+  "canonical": "bitburger-pils-premium-pils-0-5-l-000000000000182390",
+  "useAbstractForCanonical": false,
+  "urlSlugTextAlternatives": [],
+  "metaTitle": "",
+  "metaDescription": "So viel Spaß macht Qualität zu kleinen Preisen. Premium Pils zum günstigen ALDI Preis ➔ Jetzt bei ALDI SÜD kaufen!",
+  "metaKeywords": null,
+  "metaRobots": "index, follow",
+  "ageRestriction": 16,
+  "alcohol": "4.8 %",
+  "discontinued": false,
+  "discontinuedNote": null,
+  "notForSale": true,
+  "notForSaleReason": null,
+  "quantityMin": 1,
+  "quantityMax": 99,
+  "quantityInterval": 1,
+  "quantityDefault": 1,
+  "quantityUnit": "ea",
+  "weightType": "0",
+  "sellingSize": "0,5 l",
+  "countryOrigin": null,
+  "energyClass": null,
+  "storageInstructions": "Bitte kühl und dunkel lagern",
+  "usageInstructions": "Gekühlt genießen",
+  "ingredients": "Zutaten: Wasser, GERSTENMALZ, Hopfen, Hopfenextrakt",
+  "legalDisclaimer": null,
+  "onSaleDateDisplay": null,
+  "onSaleDate": null,
+  "stockInformationAvailable": false,
+  "isAbstract": false,
+  "abstractSku": "000000000000182390A",
+  "grade": null,
+  "isCustomerFacingApproved": true,
+  "isDropship": false,
+  "sellingUnitDisplay": null,
+  "price": {
+   "amount": 99,
+   "amountRelevant": 99,
+   "amountRelevantDisplay": "0,99 €",
+   "bottleDeposit": 25,
+   "bottleDepositDisplay": "0,25 €",
+   "comparison": 198,
+   "comparisonDisplay": "1,98 €/1 l",
+   "currencyCode": "EUR",
+   "currencySymbol": "€",
+   "perUnit": null,
+   "perUnitDisplay": null,
+   "wasPriceDisplay": null,
+   "additionalInfo": null,
+   "savingsDisplay": null,
+   "bottleDepositType": "EINWEG",
+   "feeText": ""
+  },
+  "countryExtensions": null,
+  "nutritionalClaims": [
+   {
+    "label": "Enthält",
+    "value": "Laktose"
+   }
+  ],
+  "multiInformations": [
+   {
+    "nutritionalValueBasisDisplay": "pro 100 ml",
+    "nutritionalValues": [
+     [
+      {
+       "name": "Energie [kJ]",
+       "amountDisplay": "170 kJ"
+      }
+     ],
+     [
+      {
+       "name": "Energie [kcal]",
+       "amountDisplay": "40 kcal"
+      }
+     ],
+     [
+      {
+       "name": "Fett",
+       "amountDisplay": "0 g"
+      }
+     ],
+     [
+      {
+       "name": "Fett, davon gesättigte Fettsäuren",
+       "amountDisplay": "0 g"
+      }
+     ],
+     [
+      {
+       "name": "Kohlenhydrate",
+       "amountDisplay": "3,1 g"
+      }
+     ],
+     [
+      {
+       "name": "Kohlenhydrate, davon Zucker",
+       "amountDisplay": "0 g"
+      }
+     ],
+     [
+      {
+       "name": "Eiweiß",
+       "amountDisplay": "0 g"
+      }
+     ],
+     [
+      {
+       "name": "Salz Äquivalent",
+       "amountDisplay": "0 g"
+      }
+     ]
+    ]
+   }
+  ],
+  "categories": [
+   {
+    "id": "1588161425467197",
+    "name": "Alkoholische Getränke",
+    "urlSlugText": "alkoholische-getraenke"
+   }
+  ],
+  "assets": [
+   {
+    "url": "https://dm.emea.cms.aldi.cx/is/image/aldiprodeu/product/jpg/scaleWidth/{width}/99cc2b27-c3b1-4a96-af13-7941b793ffb6/{slug}",
+    "maxWidth": 1500,
+    "maxHeight": 1500,
+    "mimeType": "image/*",
+    "assetType": "FR01",
+    "alt": null,
+    "displayName": null
+   }
+  ],
+  "allergens": [],
+  "warnings": null,
+  "variants": null,
+  "badges": [
+   {
+    "position": "4",
+    "items": [
+     {
+      "url": null,
+      "alt": null,
+      "displayText": "Regional verfügbar",
+      "color": "orange",
+      "mimeType": "text/plain"
+     }
+    ]
+   }
+  ]
+ }
+}

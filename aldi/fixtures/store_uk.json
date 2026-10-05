@@ -1,0 +1,38 @@
+{
+ "data": {
+  "name": "233 Newark Road",
+  "alcoholAvailability": [
+   "Beer",
+   "Wine"
+  ],
+  "publicPhoneNumber": null,
+  "facilities": [],
+  "address": {
+   "countryName": "United Kingdom",
+   "countryIsoCode": "GB",
+   "regionName": "Lincolnshire",
+   "regionIsoCode": "LIN",
+   "address1": "233 Newark Road",
+   "address2": null,
+   "address3": null,
+   "city": "Lincoln",
+   "zipCode": "LN5 8NT",
+   "district": "Lincoln",
+   "latitude": "53.20630000000000",
+   "longitude": "-0.55080000000000"
+  },
+  "id": "C091",
+  "availableCustomerServiceTypes": [
+   "walk-in"
+  ],
+  "isOpenNow": true,
+  "geofencing": {
+   "enabled": false,
+   "geofences": {
+    "inner": 5,
+    "outer": 10
+   }
+  }
+ },
+ "meta": []
+}

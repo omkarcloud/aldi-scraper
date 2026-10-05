@@ -1,0 +1,152 @@
+{
+ "data": [
+  {
+   "name": "service-point-merchant-dummy",
+   "alcoholAvailability": [],
+   "publicPhoneNumber": null,
+   "facilities": [],
+   "address": {
+    "countryName": null,
+    "countryIsoCode": null,
+    "regionName": null,
+    "regionIsoCode": null,
+    "address1": null,
+    "address2": null,
+    "address3": null,
+    "city": null,
+    "zipCode": null,
+    "district": null,
+    "latitude": null,
+    "longitude": null
+   },
+   "id": "000-000",
+   "availableCustomerServiceTypes": [
+    "pickup"
+   ],
+   "distance": null,
+   "geofencing": {
+    "enabled": false,
+    "geofences": {
+     "inner": 5,
+     "outer": 10
+    }
+   },
+   "isOpenNow": true
+  },
+  {
+   "name": "1-13 Erica Avenue",
+   "alcoholAvailability": [
+    "Beer",
+    "Wine"
+   ],
+   "publicPhoneNumber": null,
+   "facilities": [],
+   "address": {
+    "countryName": "Australia",
+    "countryIsoCode": "AU",
+    "regionName": "Victoria",
+    "regionIsoCode": "VIC",
+    "address1": "1-13 Erica Avenue",
+    "address2": null,
+    "address3": null,
+    "city": "Boronia",
+    "zipCode": "3155",
+    "district": "Boronia",
+    "latitude": "-37.86148000000000",
+    "longitude": "145.28358000000000"
+   },
+   "id": "G671",
+   "availableCustomerServiceTypes": [
+    "pickup",
+    "walk-in"
+   ],
+   "distance": null,
+   "geofencing": {
+    "enabled": false,
+    "geofences": {
+     "inner": 5,
+     "outer": 10
+    }
+   },
+   "isOpenNow": false
+  },
+  {
+   "name": "57-65 Station Street",
+   "alcoholAvailability": [],
+   "publicPhoneNumber": null,
+   "facilities": [],
+   "address": {
+    "countryName": "Australia",
+    "countryIsoCode": "AU",
+    "regionName": "Queensland",
+    "regionIsoCode": "QLD",
+    "address1": "57-65 Station Street",
+    "address2": null,
+    "address3": null,
+    "city": "Nerang",
+    "zipCode": "4211",
+    "district": "Nerang",
+    "latitude": "-27.99766000000000",
+    "longitude": "153.33823000000000"
+   },
+   "id": "G637",
+   "availableCustomerServiceTypes": [
+    "pickup",
+    "walk-in"
+   ],
+   "distance": null,
+   "geofencing": {
+    "enabled": false,
+    "geofences": {
+     "inner": 5,
+     "outer": 10
+    }
+   },
+   "isOpenNow": false
+  },
+  {
+   "name": "23-55 McCrae St",
+   "alcoholAvailability": [
+    "Beer",
+    "Wine"
+   ],
+   "publicPhoneNumber": null,
+   "facilities": [],
+   "address": {
+    "countryName": "Australia",
+    "countryIsoCode": "AU",
+    "regionName": "Victoria",
+    "regionIsoCode": "VIC",
+    "address1": "23-55 McCrae St",
+    "address2": null,
+    "address3": null,
+    "city": "Dandenong",
+    "zipCode": "3175",
+    "district": "Dandenong",
+    "latitude": "-37.98604000000000",
+    "longitude": "145.21985000000000"
+   },
+   "id": "G684",
+   "availableCustomerServiceTypes": [
+    "pickup",
+    "walk-in"
+   ],
+   "distance": null,
+   "geofencing": {
+    "enabled": false,
+    "geofences": {
+     "inner": 5,
+     "outer": 10
+    }
+   },
+   "isOpenNow": false
+  }
+ ],
+ "meta": {
+  "pagination": {
+   "offset": 0,
+   "limit": 100,
+   "totalCount": 614
+  }
+ }
+}

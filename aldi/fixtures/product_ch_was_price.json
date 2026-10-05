@@ -1,0 +1,101 @@
+{
+ "data": {
+  "sku": "000000000000107096",
+  "name": "Salanettis, scharf",
+  "brandName": "GENUSS 100% AUS ÖSTERREICH",
+  "description": "",
+  "urlSlugText": "genuss-100-aus-oesterreich-salanettis-scharf",
+  "canonical": "genuss-100-aus-oesterreich-salanettis-scharf-000000000000107096",
+  "useAbstractForCanonical": false,
+  "urlSlugTextAlternatives": {
+   "de-CH": "genuss-100-aus-oesterreich-salanettis-scharf",
+   "fr-CH": "genuss-100-aus-oesterreich-salanettis-epices",
+   "it-CH": "genuss-100-aus-oesterreich-salanettis-picccanti"
+  },
+  "metaTitle": null,
+  "metaDescription": null,
+  "metaKeywords": null,
+  "metaRobots": "index, follow",
+  "ageRestriction": null,
+  "alcohol": null,
+  "discontinued": false,
+  "discontinuedNote": null,
+  "notForSale": true,
+  "notForSaleReason": null,
+  "quantityMin": 1,
+  "quantityMax": 99,
+  "quantityInterval": 1,
+  "quantityDefault": 1,
+  "quantityUnit": "pac",
+  "weightType": "0",
+  "sellingSize": null,
+  "countryOrigin": null,
+  "energyClass": null,
+  "storageInstructions": null,
+  "usageInstructions": null,
+  "ingredients": "Schweinefleisch, Kochsalz, Gewürze, Dextrose, Würze, Gewürzextrakte, Antioxidationsmittel: Natriumascorbat; Konservierungsstoff: Kaliumnitrat, Rinderkollagenhülle.",
+  "legalDisclaimer": "Aus unserem dauerhaften Sortiment. Abgabe nur in Haushaltsmengen und solange der Vorrat reicht. Bitte beachte, dass vereinzelte Filialen ein abweichendes Sortimentsangebot führen.",
+  "onSaleDateDisplay": null,
+  "onSaleDate": null,
+  "stockInformationAvailable": false,
+  "isAbstract": false,
+  "abstractSku": "000000000000107096A",
+  "grade": null,
+  "isCustomerFacingApproved": true,
+  "isDropship": false,
+  "sellingUnitDisplay": null,
+  "price": {
+   "amount": 359,
+   "amountRelevant": 359,
+   "amountRelevantDisplay": "CHF 3.59",
+   "bottleDeposit": 0,
+   "bottleDepositDisplay": "CHF 0.00",
+   "comparison": null,
+   "comparisonDisplay": null,
+   "currencyCode": "CHF",
+   "currencySymbol": "CHF",
+   "perUnit": null,
+   "perUnitDisplay": null,
+   "wasPriceDisplay": "CHF 3.79",
+   "additionalInfo": null,
+   "savingsDisplay": null,
+   "bottleDepositType": null,
+   "feeText": null
+  },
+  "countryExtensions": null,
+  "nutritionalClaims": [
+   {
+    "label": "Free from",
+    "value": "Lactose"
+   }
+  ],
+  "multiInformations": [],
+  "categories": [
+   {
+    "id": "1588161418433042",
+    "name": "Fleisch",
+    "urlSlugText": "fleisch"
+   },
+   {
+    "id": "158816141843304201",
+    "name": "Charcuterie & Wurstwaren",
+    "urlSlugText": "fleisch/charcuterie-wurstwaren"
+   }
+  ],
+  "assets": [
+   {
+    "url": "https://dm.emea.cms.aldi.cx/is/image/aldiprodeu/product/jpg/scaleWidth/{width}/431aeb88-5fe3-4451-b860-c4e76dcb215c/{slug}",
+    "maxWidth": 2000,
+    "maxHeight": 2000,
+    "mimeType": "image/*",
+    "assetType": "FR01",
+    "alt": null,
+    "displayName": null
+   }
+  ],
+  "allergens": [],
+  "warnings": null,
+  "variants": null,
+  "badges": []
+ }
+}

@@ -1,0 +1,92 @@
+{
+ "data": {
+  "sku": "000000000000543221",
+  "name": "Chocolate Milk",
+  "brandName": "COWBELLE",
+  "description": "Creamy Chocolate Milk that’s rich, smooth, and oh-so-satisfying.<ul><li>1 Litre (approx.)</li></ul>",
+  "urlSlugText": "cowbelle-chocolate-milk",
+  "canonical": "cowbelle-chocolate-milk-000000000000543221",
+  "useAbstractForCanonical": false,
+  "urlSlugTextAlternatives": [],
+  "metaTitle": "",
+  "metaDescription": "",
+  "metaKeywords": null,
+  "metaRobots": "index, follow",
+  "ageRestriction": null,
+  "alcohol": null,
+  "discontinued": false,
+  "discontinuedNote": null,
+  "notForSale": true,
+  "notForSaleReason": null,
+  "quantityMin": 1,
+  "quantityMax": 99,
+  "quantityInterval": 1,
+  "quantityDefault": 1,
+  "quantityUnit": "ea",
+  "weightType": "0",
+  "sellingSize": "1 L",
+  "countryOrigin": null,
+  "energyClass": null,
+  "storageInstructions": null,
+  "usageInstructions": null,
+  "ingredients": null,
+  "legalDisclaimer": null,
+  "onSaleDateDisplay": null,
+  "onSaleDate": null,
+  "stockInformationAvailable": false,
+  "isAbstract": false,
+  "abstractSku": "000000000000543221A",
+  "grade": null,
+  "isCustomerFacingApproved": false,
+  "isDropship": false,
+  "sellingUnitDisplay": null,
+  "price": {
+   "amount": 95,
+   "amountRelevant": 95,
+   "amountRelevantDisplay": "£0.95",
+   "bottleDeposit": 0,
+   "bottleDepositDisplay": "£0.00",
+   "comparison": 95,
+   "comparisonDisplay": "£0.95/1 L",
+   "currencyCode": "GBP",
+   "currencySymbol": "£",
+   "perUnit": null,
+   "perUnitDisplay": null,
+   "wasPriceDisplay": null,
+   "additionalInfo": null,
+   "savingsDisplay": null,
+   "bottleDepositType": null,
+   "feeText": null
+  },
+  "countryExtensions": null,
+  "nutritionalClaims": null,
+  "multiInformations": [],
+  "categories": [
+   {
+    "id": "1588161416978051",
+    "name": "Chilled Food",
+    "urlSlugText": "chilled-food"
+   },
+   {
+    "id": "1588161416978051001",
+    "name": "Milk",
+    "urlSlugText": "chilled-food/milk"
+   }
+  ],
+  "assets": [
+   {
+    "url": "https://dm.emea.cms.aldi.cx/is/image/aldiprodeu/product/jpg/scaleWidth/{width}/ae7ef580-7dba-4552-aa82-4c12b37db36e/{slug}",
+    "maxWidth": 1500,
+    "maxHeight": 1500,
+    "mimeType": "image/*",
+    "assetType": "FR01",
+    "alt": null,
+    "displayName": null
+   }
+  ],
+  "allergens": [],
+  "warnings": null,
+  "variants": null,
+  "badges": []
+ }
+}

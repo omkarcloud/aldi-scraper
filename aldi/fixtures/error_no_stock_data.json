@@ -1,0 +1,13 @@
+{
+ "status": 422,
+ "body": {
+  "errors": [
+   {
+    "status": 422,
+    "code": "3306",
+    "message": "No availability data available for product",
+    "context": []
+   }
+  ]
+ }
+}

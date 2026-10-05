@@ -1,0 +1,12 @@
+{
+ "status": 400,
+ "body": {
+  "errors": [
+   {
+    "code": "3739",
+    "message": "Invalid page offset supplied",
+    "context": []
+   }
+  ]
+ }
+}

@@ -1,0 +1,83 @@
+{
+ "data": {
+  "type": "stores",
+  "id": "GB",
+  "attributes": {
+   "timeZone": "Europe/London",
+   "defaultCurrency": "GBP",
+   "wishlistEnabled": null,
+   "defaultPriceMode": "GROSS_MODE",
+   "availableServiceTypes": [
+    "walk-in"
+   ],
+   "defaultServiceType": "walk-in",
+   "paymentBufferPercent": 10,
+   "checkoutAddressEditable": false,
+   "defaultMerchant": "C091",
+   "salesUnitSeparator": "/",
+   "comparisonSeparator": "/",
+   "phoneNumberDeliveryMandatory": false,
+   "phoneNumberPickupMandatory": false,
+   "deliveryTip": false,
+   "pickupTip": false,
+   "frontendTimeslotReservationExpirationThresholdSeconds": "20",
+   "separatorThousands": ",",
+   "separatorDecimal": ".",
+   "useNewSearch": true,
+   "shipmentFeeDiscountDeliveryEnabled": false,
+   "shipmentFeeDiscountPickupEnabled": false,
+   "shipmentFeeDiscountDeliveryThreshold": 800,
+   "shipmentFeeDiscountPickupThreshold": 800,
+   "currencies": [
+    {
+     "code": "GBP",
+     "name": "British Pound"
+    }
+   ],
+   "locales": [
+    {
+     "code": "en",
+     "name": "en_GB"
+    }
+   ],
+   "countries": [
+    {
+     "postalCodeMandatory": false,
+     "postalCodeRegex": "^[a-zA-Z]{1,2}\\d[a-zA-Z\\d]? ?\\d[a-zA-Z]{2}$",
+     "phoneNumberRegex": "",
+     "firstNameRegex": null,
+     "lastNameRegex": null,
+     "manualAddressValidationRegexCity": "",
+     "manualAddressValidationRegexAddressLine1": "",
+     "countryName": "United Kingdom",
+     "countryIsoCode": "GB",
+     "addressLine2Regex": null,
+     "regions": [
+      {
+       "regionName": "Barking and Dagenham",
+       "regionIsoCode": "BDG"
+      },
+      {
+       "regionName": "Barnet",
+       "regionIsoCode": "BNE"
+      },
+      {
+       "regionName": "Barnsley",
+       "regionIsoCode": "BNS"
+      }
+     ]
+    }
+   ],
+   "paymentMethods": [],
+   "availableServiceCustomerTypeStorages": [
+    {
+     "reference": "walk-in",
+     "isTransactional": false
+    }
+   ]
+  },
+  "links": {
+   "self": "https://api.gb.prod.commerce.ci-aldi.com:80/stores/GB"
+  }
+ }
+}

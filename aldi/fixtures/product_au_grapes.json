@@ -1,0 +1,92 @@
+{
+ "data": {
+  "sku": "000000000000364044",
+  "name": "Red Seedless Grapes per kg",
+  "brandName": null,
+  "description": "Sweet, crisp, and bursting with juice, red seedless grapes make an ideal snack or addition to cheese platters, salads, or smoothies. Naturally refreshing and easy to enjoy!",
+  "urlSlugText": "produce-branded-red-seedless-grapes-per-kg",
+  "canonical": "produce-branded-red-seedless-grapes-per-kg-000000000000364044",
+  "useAbstractForCanonical": false,
+  "urlSlugTextAlternatives": [],
+  "metaTitle": "",
+  "metaDescription": "",
+  "metaKeywords": null,
+  "metaRobots": "index, follow",
+  "ageRestriction": null,
+  "alcohol": null,
+  "discontinued": false,
+  "discontinuedNote": null,
+  "notForSale": true,
+  "notForSaleReason": null,
+  "quantityMin": 0.9,
+  "quantityMax": 99,
+  "quantityInterval": 0.9,
+  "quantityDefault": 0.9,
+  "quantityUnit": "kg",
+  "weightType": "3",
+  "sellingSize": "approx. 0.9 kg per piece",
+  "countryOrigin": null,
+  "energyClass": null,
+  "storageInstructions": null,
+  "usageInstructions": null,
+  "ingredients": null,
+  "legalDisclaimer": null,
+  "onSaleDateDisplay": null,
+  "onSaleDate": null,
+  "stockInformationAvailable": false,
+  "isAbstract": false,
+  "abstractSku": "000000000000364044A",
+  "grade": null,
+  "isCustomerFacingApproved": false,
+  "isDropship": false,
+  "sellingUnitDisplay": null,
+  "price": {
+   "amount": 1099,
+   "amountRelevant": 989,
+   "amountRelevantDisplay": "$9.89",
+   "bottleDeposit": 0,
+   "bottleDepositDisplay": "$0.00",
+   "comparison": 1099,
+   "comparisonDisplay": "$10.99 per 1 kg",
+   "currencyCode": "AUD",
+   "currencySymbol": "$",
+   "perUnit": 0.9,
+   "perUnitDisplay": "0.9 kg",
+   "wasPriceDisplay": null,
+   "additionalInfo": null,
+   "savingsDisplay": null,
+   "bottleDepositType": null,
+   "feeText": null
+  },
+  "countryExtensions": null,
+  "nutritionalClaims": null,
+  "multiInformations": [],
+  "categories": [
+   {
+    "id": "950000000",
+    "name": "Fruits & Vegetables",
+    "urlSlugText": "fruits-vegetables"
+   },
+   {
+    "id": "1111111152",
+    "name": "Fresh Fruits",
+    "urlSlugText": "fruits-vegetables/fresh-fruits"
+   }
+  ],
+  "assets": [
+   {
+    "url": "https://dm.apac.cms.aldi.cx/is/image/aldiprodapac/product/jpg/scaleWidth/{width}/21fc6e90-eef6-46ab-8ee2-acc522a6c7d6/{slug}",
+    "maxWidth": 1500,
+    "maxHeight": 1500,
+    "mimeType": "image/*",
+    "assetType": "FR01",
+    "alt": null,
+    "displayName": null
+   }
+  ],
+  "allergens": [],
+  "warnings": null,
+  "variants": null,
+  "badges": []
+ }
+}

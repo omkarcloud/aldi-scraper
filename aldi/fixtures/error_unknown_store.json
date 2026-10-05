@@ -1,0 +1,12 @@
+{
+ "status": 400,
+ "body": {
+  "errors": [
+   {
+    "code": "3501",
+    "message": "Merchant not found.",
+    "context": []
+   }
+  ]
+ }
+}

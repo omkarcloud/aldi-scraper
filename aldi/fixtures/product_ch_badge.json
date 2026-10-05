@@ -1,0 +1,113 @@
+{
+ "data": {
+  "sku": "000000000000106908",
+  "name": "Mini-Mix",
+  "brandName": "HARIBO",
+  "description": "",
+  "urlSlugText": "haribo-mini-mix",
+  "canonical": "haribo-mini-mix-000000000000106908",
+  "useAbstractForCanonical": false,
+  "urlSlugTextAlternatives": {
+   "de-CH": "haribo-mini-mix",
+   "fr-CH": "haribo-assortiment-mini",
+   "it-CH": "haribo-mini-mix"
+  },
+  "metaTitle": null,
+  "metaDescription": null,
+  "metaKeywords": null,
+  "metaRobots": "index, follow",
+  "ageRestriction": null,
+  "alcohol": null,
+  "discontinued": false,
+  "discontinuedNote": null,
+  "notForSale": true,
+  "notForSaleReason": null,
+  "quantityMin": 1,
+  "quantityMax": 99,
+  "quantityInterval": 1,
+  "quantityDefault": 1,
+  "quantityUnit": "pac",
+  "weightType": "0",
+  "sellingSize": "425 g",
+  "countryOrigin": null,
+  "energyClass": null,
+  "storageInstructions": null,
+  "usageInstructions": null,
+  "ingredients": "Zutaten: Glukosesirup; Zucker; Gelatine; Dextrose; Fruchtsaft aus Fruchtsaftkonzentraten: Apfel, Himbeere, Pfirisch, Birne, Schwarze Johannisbeere, Kirsche, Erdbeere, Orange, Zitrone, Banane, Ananas; Säuerungsmittel: Citronensäure, Apfelsäure; Stärke; Feuchthaltemittel: Sorbitsirup; Weizenmehl; Frucht- und Pflanzenkonzentrate: Saflor, Spirulina, Apfel, Holunderbeere, Karotte, Schwarze Johannisbeere, Rettich, Süßkartoffel, Orange, Zitrone, Heidelbeere, Kiwi, Hibiskus, Mango, Passionsfrucht, Aronia, Traube; Aroma; Karamellsirup; Überzugsmittel: Bienenwachs weiß und gelb, Carnaubawachs; Holunderbeerextrakt; Farbstoffe: Anthocyane, Indigotin; Invertzuckersirup.",
+  "legalDisclaimer": null,
+  "onSaleDateDisplay": null,
+  "onSaleDate": null,
+  "stockInformationAvailable": false,
+  "isAbstract": false,
+  "abstractSku": "000000000000106908A",
+  "grade": null,
+  "isCustomerFacingApproved": true,
+  "isDropship": false,
+  "sellingUnitDisplay": null,
+  "price": {
+   "amount": 379,
+   "amountRelevant": 379,
+   "amountRelevantDisplay": "CHF 3.79",
+   "bottleDeposit": 0,
+   "bottleDepositDisplay": "CHF 0.00",
+   "comparison": 89,
+   "comparisonDisplay": "CHF 0.89/100 g",
+   "currencyCode": "CHF",
+   "currencySymbol": "CHF",
+   "perUnit": null,
+   "perUnitDisplay": null,
+   "wasPriceDisplay": null,
+   "additionalInfo": null,
+   "savingsDisplay": null,
+   "bottleDepositType": null,
+   "feeText": null
+  },
+  "countryExtensions": null,
+  "nutritionalClaims": [
+   {
+    "label": "Contains",
+    "value": "Gluten"
+   },
+   {
+    "label": "Free from",
+    "value": "Lactose"
+   }
+  ],
+  "multiInformations": [],
+  "categories": [
+   {
+    "id": "1588161431768066",
+    "name": "Tiefpreisversprechen",
+    "urlSlugText": "tiefpreisversprechen"
+   }
+  ],
+  "assets": [
+   {
+    "url": "https://dm.emea.cms.aldi.cx/is/image/aldiprodeu/product/jpg/scaleWidth/{width}/b7c7cad0-e5b4-4aeb-b635-596cfdfa6525/{slug}",
+    "maxWidth": 2000,
+    "maxHeight": 2000,
+    "mimeType": "image/*",
+    "assetType": "FR01",
+    "alt": null,
+    "displayName": null
+   }
+  ],
+  "allergens": [],
+  "warnings": null,
+  "variants": null,
+  "badges": [
+   {
+    "position": "4",
+    "items": [
+     {
+      "url": null,
+      "alt": null,
+      "displayText": "Tiefpreis",
+      "color": "red",
+      "mimeType": "text/plain"
+     }
+    ]
+   }
+  ]
+ }
+}

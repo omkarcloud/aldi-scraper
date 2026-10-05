@@ -1,0 +1,527 @@
+{
+ "meta": {
+  "spellingSuggestion": null,
+  "pinned": [],
+  "keywordRedirect": null,
+  "pagination": {
+   "offset": 0,
+   "limit": 30,
+   "totalCount": 88
+  },
+  "debug": null,
+  "facets": [
+   {
+    "name": "category-tree",
+    "localizedName": "Category",
+    "docCount": 89,
+    "activeValue": [],
+    "config": {
+     "parameterName": "categoryTree",
+     "type": "value",
+     "isMultiValue": true,
+     "componentName": "category-tree",
+     "component": {
+      "name": "categoryTree",
+      "valueActive": null,
+      "valueInactive": null
+     }
+    },
+    "stats": null,
+    "values": [
+     {
+      "key": "1588161416978053",
+      "docCount": 46,
+      "label": "Food Cupboard",
+      "isSelected": false,
+      "thumbnail": null,
+      "children": [
+       {
+        "key": "1588161416978053001",
+        "docCount": 14,
+        "label": "Biscuits & Crackers",
+        "isSelected": false,
+        "thumbnail": null,
+        "children": []
+       },
+       {
+        "key": "1588161416978053002",
+        "docCount": 2,
+        "label": "Cereals & Snack Bars",
+        "isSelected": false,
+        "thumbnail": null,
+        "children": []
+       },
+       {
+        "key": "1588161416978053003",
+        "docCount": 26,
+        "label": "Chocolate & Sweets",
+        "isSelected": false,
+        "thumbnail": null,
+        "children": []
+       }
+      ]
+     },
+     {
+      "key": "1588161416978051",
+      "docCount": 37,
+      "label": "Chilled Food",
+      "isSelected": false,
+      "thumbnail": null,
+      "children": [
+       {
+        "key": "1588161416978051001",
+        "docCount": 34,
+        "label": "Milk",
+        "isSelected": false,
+        "thumbnail": null,
+        "children": []
+       },
+       {
+        "key": "1588161416978051002",
+        "docCount": 2,
+        "label": "Dairy",
+        "isSelected": false,
+        "thumbnail": null,
+        "children": []
+       },
+       {
+        "key": "1588161416978051005",
+        "docCount": 1,
+        "label": "Yogurts",
+        "isSelected": false,
+        "thumbnail": null,
+        "children": []
+       }
+      ]
+     },
+     {
+      "key": "1588161416978056",
+      "docCount": 1,
+      "label": "Frozen Food",
+      "isSelected": false,
+      "thumbnail": null,
+      "children": [
+       {
+        "key": "1588161416978056009",
+        "docCount": 1,
+        "label": "Ice Cream & Desserts",
+        "isSelected": false,
+        "thumbnail": null,
+        "children": []
+       }
+      ]
+     },
+     {
+      "key": "1588161416978049",
+      "docCount": 1,
+      "label": "Bakery",
+      "isSelected": false,
+      "thumbnail": null,
+      "children": [
+       {
+        "key": "1588161416978049005",
+        "docCount": 1,
+        "label": "Breakfast Pastries",
+        "isSelected": false,
+        "thumbnail": null,
+        "children": []
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "name": "theme",
+    "localizedName": "Theme",
+    "docCount": 89,
+    "activeValue": [],
+    "config": {
+     "parameterName": "theme",
+     "type": "value",
+     "isMultiValue": true,
+     "componentName": "multi-select",
+     "component": {
+      "name": "multiSelect",
+      "valueActive": null,
+      "valueInactive": null
+     }
+    },
+    "stats": null,
+    "values": [
+     {
+      "key": "Cupboard Fillers",
+      "docCount": 1,
+      "label": "Cupboard Fillers",
+      "isSelected": null,
+      "thumbnail": null,
+      "children": []
+     },
+     {
+      "key": "Halloween Goodies",
+      "docCount": 1,
+      "label": "Halloween Goodies",
+      "isSelected": null,
+      "thumbnail": null,
+      "children": []
+     }
+    ]
+   },
+   {
+    "name": "brand-name",
+    "localizedName": "Brand",
+    "docCount": 89,
+    "activeValue": [],
+    "config": {
+     "parameterName": "brandName",
+     "type": "value",
+     "isMultiValue": true,
+     "componentName": "multi-select",
+     "component": {
+      "name": "multiSelect",
+      "valueActive": null,
+      "valueInactive": null
+     }
+    },
+    "stats": null,
+    "values": [
+     {
+      "key": "COWBELLE",
+      "docCount": 26,
+      "label": "COWBELLE",
+      "isSelected": null,
+      "thumbnail": null,
+      "children": []
+     },
+     {
+      "key": "DAIRYFINE",
+      "docCount": 12,
+      "label": "DAIRYFINE",
+      "isSelected": null,
+      "thumbnail": null,
+      "children": []
+     },
+     {
+      "key": "BELMONT",
+      "docCount": 11,
+      "label": "BELMONT",
+      "isSelected": null,
+      "thumbnail": null,
+      "children": []
+     },
+     {
+      "key": "ACTILEAF",
+      "docCount": 5,
+      "label": "ACTILEAF",
+      "isSelected": null,
+      "thumbnail": null,
+      "children": []
+     }
+    ]
+   }
+  ],
+  "sort": [
+   {
+    "parameterName": "sort",
+    "parameterValue": "relevance",
+    "localizedName": "Relevance",
+    "isActive": true
+   },
+   {
+    "parameterName": "sort",
+    "parameterValue": "name_asc",
+    "localizedName": "Name (A to Z)",
+    "isActive": false
+   },
+   {
+    "parameterName": "sort",
+    "parameterValue": "name_desc",
+    "localizedName": "Name (Z to A)",
+    "isActive": false
+   },
+   {
+    "parameterName": "sort",
+    "parameterValue": "price_asc",
+    "localizedName": "Price (Low to High)",
+    "isActive": false
+   },
+   {
+    "parameterName": "sort",
+    "parameterValue": "price_desc",
+    "localizedName": "Price (High to Low)",
+    "isActive": false
+   }
+  ]
+ },
+ "data": [
+  {
+   "sku": "000000000000543221",
+   "name": "Chocolate Milk",
+   "brandName": "COWBELLE",
+   "urlSlugText": "cowbelle-chocolate-milk",
+   "urlSlugTextAlternatives": [],
+   "ageRestriction": null,
+   "alcohol": null,
+   "discontinued": false,
+   "discontinuedNote": null,
+   "notForSale": true,
+   "notForSaleReason": null,
+   "quantityMin": 1,
+   "quantityMax": 99,
+   "quantityInterval": 1,
+   "quantityDefault": 1,
+   "quantityUnit": "ea",
+   "weightType": "0",
+   "sellingSize": "1 L",
+   "energyClass": null,
+   "onSaleDateDisplay": null,
+   "onSaleDate": null,
+   "isAbstract": false,
+   "abstractSku": "000000000000543221A",
+   "isDropship": false,
+   "sellingUnitDisplay": null,
+   "price": {
+    "amount": 95,
+    "amountRelevant": 95,
+    "amountRelevantDisplay": "£0.95",
+    "bottleDeposit": 0,
+    "bottleDepositDisplay": "£0.00",
+    "comparison": 95,
+    "comparisonDisplay": "£0.95/1 L",
+    "currencyCode": "GBP",
+    "currencySymbol": "GBP",
+    "perUnit": null,
+    "perUnitDisplay": null,
+    "wasPriceDisplay": null,
+    "additionalInfo": null,
+    "savingsDisplay": null,
+    "bottleDepositType": null,
+    "feeText": null
+   },
+   "countryExtensions": null,
+   "categories": [
+    {
+     "id": "1588161416978051",
+     "name": "Chilled Food",
+     "urlSlugText": "chilled-food"
+    },
+    {
+     "id": "1588161416978051001",
+     "name": "Milk",
+     "urlSlugText": "chilled-food/milk"
+    }
+   ],
+   "assets": [
+    {
+     "url": "https://dm.emea.cms.aldi.cx/is/image/aldiprodeu/product/jpg/scaleWidth/{width}/ae7ef580-7dba-4552-aa82-4c12b37db36e/{slug}",
+     "maxWidth": 1500,
+     "maxHeight": 1500,
+     "mimeType": "image/*",
+     "assetType": "FR01",
+     "alt": null,
+     "displayName": null
+    }
+   ],
+   "badges": []
+  },
+  {
+   "sku": "000000000000422329",
+   "name": "Lactose Free Milk",
+   "brandName": "COWBELLE",
+   "urlSlugText": "cowbelle-lactose-free-milk",
+   "urlSlugTextAlternatives": [],
+   "ageRestriction": null,
+   "alcohol": null,
+   "discontinued": false,
+   "discontinuedNote": null,
+   "notForSale": true,
+   "notForSaleReason": null,
+   "quantityMin": 1,
+   "quantityMax": 99,
+   "quantityInterval": 1,
+   "quantityDefault": 1,
+   "quantityUnit": "ea",
+   "weightType": "0",
+   "sellingSize": "1 L",
+   "energyClass": null,
+   "onSaleDateDisplay": null,
+   "onSaleDate": null,
+   "isAbstract": false,
+   "abstractSku": "000000000000422329A",
+   "isDropship": false,
+   "sellingUnitDisplay": null,
+   "price": {
+    "amount": 99,
+    "amountRelevant": 99,
+    "amountRelevantDisplay": "£0.99",
+    "bottleDeposit": 0,
+    "bottleDepositDisplay": "£0.00",
+    "comparison": 99,
+    "comparisonDisplay": "£0.99/1 L",
+    "currencyCode": "GBP",
+    "currencySymbol": "GBP",
+    "perUnit": null,
+    "perUnitDisplay": null,
+    "wasPriceDisplay": null,
+    "additionalInfo": null,
+    "savingsDisplay": null,
+    "bottleDepositType": null,
+    "feeText": null
+   },
+   "countryExtensions": null,
+   "categories": [
+    {
+     "id": "1588161416978051",
+     "name": "Chilled Food",
+     "urlSlugText": "chilled-food"
+    },
+    {
+     "id": "1588161416978051001",
+     "name": "Milk",
+     "urlSlugText": "chilled-food/milk"
+    }
+   ],
+   "assets": [
+    {
+     "url": "https://dm.emea.cms.aldi.cx/is/image/aldiprodeu/product/jpg/scaleWidth/{width}/5dc3c25a-94e0-4447-8696-6a7c174f3757/{slug}",
+     "maxWidth": 1500,
+     "maxHeight": 1500,
+     "mimeType": "image/*",
+     "assetType": "FR01",
+     "alt": null,
+     "displayName": null
+    }
+   ],
+   "badges": []
+  },
+  {
+   "sku": "000000000000534177",
+   "name": "Skimmed UHT Milk",
+   "brandName": "EVERYDAY ESSENTIALS",
+   "urlSlugText": "everyday-essentials-skimmed-uht-milk",
+   "urlSlugTextAlternatives": [],
+   "ageRestriction": null,
+   "alcohol": null,
+   "discontinued": false,
+   "discontinuedNote": null,
+   "notForSale": true,
+   "notForSaleReason": null,
+   "quantityMin": 1,
+   "quantityMax": 99,
+   "quantityInterval": 1,
+   "quantityDefault": 1,
+   "quantityUnit": "ea",
+   "weightType": "0",
+   "sellingSize": "1 L",
+   "energyClass": null,
+   "onSaleDateDisplay": null,
+   "onSaleDate": null,
+   "isAbstract": false,
+   "abstractSku": "000000000000534177A",
+   "isDropship": false,
+   "sellingUnitDisplay": null,
+   "price": {
+    "amount": 65,
+    "amountRelevant": 65,
+    "amountRelevantDisplay": "£0.65",
+    "bottleDeposit": 0,
+    "bottleDepositDisplay": "£0.00",
+    "comparison": 65,
+    "comparisonDisplay": "£0.65/1 L",
+    "currencyCode": "GBP",
+    "currencySymbol": "GBP",
+    "perUnit": null,
+    "perUnitDisplay": null,
+    "wasPriceDisplay": null,
+    "additionalInfo": null,
+    "savingsDisplay": null,
+    "bottleDepositType": null,
+    "feeText": null
+   },
+   "countryExtensions": null,
+   "categories": [
+    {
+     "id": "1588161416978051",
+     "name": "Chilled Food",
+     "urlSlugText": "chilled-food"
+    },
+    {
+     "id": "1588161416978051001",
+     "name": "Milk",
+     "urlSlugText": "chilled-food/milk"
+    }
+   ],
+   "assets": [
+    {
+     "url": "https://dm.emea.cms.aldi.cx/is/image/aldiprodeu/product/jpg/scaleWidth/{width}/6f4fc30b-72c1-4160-b1b1-5d812006cb5d/{slug}",
+     "maxWidth": 1500,
+     "maxHeight": 1500,
+     "mimeType": "image/*",
+     "assetType": "FR01",
+     "alt": null,
+     "displayName": null
+    }
+   ],
+   "badges": []
+  },
+  {
+   "sku": "000000000755310001",
+   "name": "Strawberry Flavoured Milk",
+   "brandName": "COWBELLE",
+   "urlSlugText": "cowbelle-strawberry-flavoured-milk",
+   "urlSlugTextAlternatives": [],
+   "ageRestriction": null,
+   "alcohol": null,
+   "discontinued": false,
+   "discontinuedNote": null,
+   "notForSale": true,
+   "notForSaleReason": null,
+   "quantityMin": 1,
+   "quantityMax": 99,
+   "quantityInterval": 1,
+   "quantityDefault": 1,
+   "quantityUnit": "ea",
+   "weightType": "0",
+   "sellingSize": "1 L",
+   "energyClass": null,
+   "onSaleDateDisplay": null,
+   "onSaleDate": null,
+   "isAbstract": false,
+   "abstractSku": "000000000000755310",
+   "isDropship": false,
+   "sellingUnitDisplay": null,
+   "price": {
+    "amount": 95,
+    "amountRelevant": 95,
+    "amountRelevantDisplay": "£0.95",
+    "bottleDeposit": 0,
+    "bottleDepositDisplay": "£0.00",
+    "comparison": 95,
+    "comparisonDisplay": "£0.95/1 L",
+    "currencyCode": "GBP",
+    "currencySymbol": "GBP",
+    "perUnit": null,
+    "perUnitDisplay": null,
+    "wasPriceDisplay": null,
+    "additionalInfo": null,
+    "savingsDisplay": null,
+    "bottleDepositType": null,
+    "feeText": null
+   },
+   "countryExtensions": null,
+   "categories": [
+    {
+     "id": "1588161416978051",
+     "name": "Chilled Food",
+     "urlSlugText": "chilled-food"
+    },
+    {
+     "id": "1588161416978051001",
+     "name": "Milk",
+     "urlSlugText": "chilled-food/milk"
+    }
+   ],
+   "assets": [],
+   "badges": []
+  }
+ ]
+}

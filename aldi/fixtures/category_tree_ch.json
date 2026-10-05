@@ -1,0 +1,57 @@
+{
+ "data": [
+  {
+   "key": "1588161431768066",
+   "order": 27,
+   "thumbnail": null,
+   "name": "Tiefpreisversprechen",
+   "urlSlugText": "tiefpreisversprechen",
+   "urlSlugTextAlternatives": {
+    "de-CH": "tiefpreisversprechen",
+    "fr-CH": "la-promesse-du-prix-le-plus-bas",
+    "it-CH": "la-garanzia-dei-prezzi-bassi"
+   },
+   "children": []
+  },
+  {
+   "key": "1588161418433031",
+   "order": 26,
+   "thumbnail": null,
+   "name": "Aktionen",
+   "urlSlugText": "aktionen",
+   "urlSlugTextAlternatives": {
+    "de-CH": "aktionen",
+    "fr-CH": "actions",
+    "it-CH": "promozioni"
+   },
+   "children": [
+    {
+     "key": "158816141843303101",
+     "order": null,
+     "thumbnail": null,
+     "name": "Auto, Töff & Velo",
+     "urlSlugText": "aktionen/auto-toeff-velo",
+     "urlSlugTextAlternatives": {
+      "de-CH": "aktionen/auto-toeff-velo",
+      "fr-CH": "actions/voiture-moto-et-velo",
+      "it-CH": "promozioni/auto-moto-e-bici"
+     },
+     "children": []
+    },
+    {
+     "key": "158816141843303103",
+     "order": null,
+     "thumbnail": null,
+     "name": "Batterien & Akkus",
+     "urlSlugText": "aktionen/batterien-akkus",
+     "urlSlugTextAlternatives": {
+      "de-CH": "aktionen/batterien-akkus",
+      "it-CH": "promozioni/pile-e-batterie",
+      "fr-CH": "actions/piles-et-accus"
+     },
+     "children": []
+    }
+   ]
+  }
+ ]
+}

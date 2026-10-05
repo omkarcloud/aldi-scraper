@@ -1,0 +1,519 @@
+{
+ "meta": {
+  "spellingSuggestion": null,
+  "pinned": [],
+  "keywordRedirect": null,
+  "pagination": {
+   "offset": 0,
+   "limit": 30,
+   "totalCount": 100
+  },
+  "debug": null,
+  "facets": [
+   {
+    "name": "brand-name",
+    "localizedName": "Marken",
+    "docCount": 107,
+    "activeValue": [],
+    "config": {
+     "parameterName": "brandName",
+     "type": "value",
+     "isMultiValue": true,
+     "componentName": "multi-select",
+     "component": {
+      "name": "multiSelect",
+      "valueActive": null,
+      "valueInactive": null
+     }
+    },
+    "stats": null,
+    "values": [
+     {
+      "key": "SCHÄR",
+      "docCount": 3,
+      "label": "SCHÄR",
+      "isSelected": null,
+      "thumbnail": null,
+      "children": []
+     },
+     {
+      "key": "SAVEURS SUISSES",
+      "docCount": 3,
+      "label": "SAVEURS SUISSES",
+      "isSelected": null,
+      "thumbnail": null,
+      "children": []
+     },
+     {
+      "key": "RETOUR AUX SOURCES",
+      "docCount": 22,
+      "label": "RETOUR AUX SOURCES",
+      "isSelected": null,
+      "thumbnail": null,
+      "children": []
+     },
+     {
+      "key": "PANETTERIA",
+      "docCount": 34,
+      "label": "PANETTERIA",
+      "isSelected": null,
+      "thumbnail": null,
+      "children": []
+     }
+    ]
+   },
+   {
+    "name": "country-origin",
+    "localizedName": "Herkunftsland",
+    "docCount": 107,
+    "activeValue": [],
+    "config": {
+     "parameterName": "countryOrigin",
+     "type": "value",
+     "isMultiValue": true,
+     "componentName": "multi-select",
+     "component": {
+      "name": "multiSelect",
+      "valueActive": null,
+      "valueInactive": null
+     }
+    },
+    "stats": null,
+    "values": []
+   },
+   {
+    "name": "category-tree",
+    "localizedName": "Kategorie",
+    "docCount": 107,
+    "activeValue": [],
+    "config": {
+     "parameterName": "categoryTree",
+     "type": "value",
+     "isMultiValue": true,
+     "componentName": "category-tree",
+     "component": {
+      "name": "categoryTree",
+      "valueActive": null,
+      "valueInactive": null
+     }
+    },
+    "stats": null,
+    "values": [
+     {
+      "key": "1588161431768066",
+      "docCount": 12,
+      "label": "Tiefpreisversprechen",
+      "isSelected": false,
+      "thumbnail": null,
+      "children": []
+     },
+     {
+      "key": "1588161418433031",
+      "docCount": 6,
+      "label": "Aktionen",
+      "isSelected": false,
+      "thumbnail": null,
+      "children": [
+       {
+        "key": "158816141843303117",
+        "docCount": 1,
+        "label": "Haushalt",
+        "isSelected": false,
+        "thumbnail": null,
+        "children": []
+       },
+       {
+        "key": "158816141843303123",
+        "docCount": 1,
+        "label": "Küche",
+        "isSelected": false,
+        "thumbnail": null,
+        "children": []
+       }
+      ]
+     },
+     {
+      "key": "1588161418433036",
+      "docCount": 1,
+      "label": "Alkohol & Tabakwaren",
+      "isSelected": false,
+      "thumbnail": null,
+      "children": [
+       {
+        "key": "158816141843303607",
+        "docCount": 1,
+        "label": "Spirituosen",
+        "isSelected": false,
+        "thumbnail": null,
+        "children": []
+       }
+      ]
+     },
+     {
+      "key": "1588161418433039",
+      "docCount": 56,
+      "label": "Brot & Backwaren",
+      "isSelected": false,
+      "thumbnail": null,
+      "children": [
+       {
+        "key": "158816141843303901",
+        "docCount": 2,
+        "label": "Aufbackwaren",
+        "isSelected": false,
+        "thumbnail": null,
+        "children": []
+       },
+       {
+        "key": "158816141843303902",
+        "docCount": 39,
+        "label": "Frische Backwaren (Panetteria)",
+        "isSelected": false,
+        "thumbnail": null,
+        "children": []
+       },
+       {
+        "key": "158816141843303903",
+        "docCount": 2,
+        "label": "Knäckebrot & Zwieback",
+        "isSelected": false,
+        "thumbnail": null,
+        "children": []
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "name": "theme",
+    "localizedName": "Thema",
+    "docCount": 107,
+    "activeValue": [],
+    "config": {
+     "parameterName": "theme",
+     "type": "value",
+     "isMultiValue": true,
+     "componentName": "multi-select",
+     "component": {
+      "name": "multiSelect",
+      "valueActive": null,
+      "valueInactive": null
+     }
+    },
+    "stats": null,
+    "values": [
+     {
+      "key": "Weltkindertag",
+      "docCount": 2,
+      "label": "Weltkindertag",
+      "isSelected": null,
+      "thumbnail": null,
+      "children": []
+     },
+     {
+      "key": "Halloween",
+      "docCount": 1,
+      "label": "Halloween",
+      "isSelected": null,
+      "thumbnail": null,
+      "children": []
+     },
+     {
+      "key": "Küche",
+      "docCount": 1,
+      "label": "Küche",
+      "isSelected": null,
+      "thumbnail": null,
+      "children": []
+     },
+     {
+      "key": "XXL",
+      "docCount": 1,
+      "label": "XXL",
+      "isSelected": null,
+      "thumbnail": null,
+      "children": []
+     }
+    ]
+   }
+  ],
+  "sort": [
+   {
+    "parameterName": "sort",
+    "parameterValue": "relevance",
+    "localizedName": "Relevanz",
+    "isActive": true
+   },
+   {
+    "parameterName": "sort",
+    "parameterValue": "name_asc",
+    "localizedName": "A - Z",
+    "isActive": false
+   },
+   {
+    "parameterName": "sort",
+    "parameterValue": "name_desc",
+    "localizedName": "Z - A",
+    "isActive": false
+   },
+   {
+    "parameterName": "sort",
+    "parameterValue": "price_asc",
+    "localizedName": "Preis (Niedrig bis Hoch)",
+    "isActive": false
+   },
+   {
+    "parameterName": "sort",
+    "parameterValue": "price_desc",
+    "localizedName": "Preis (Hoch bis Niedrig)",
+    "isActive": false
+   }
+  ]
+ },
+ "data": [
+  {
+   "sku": "000000000000290628",
+   "name": "Milch",
+   "brandName": "MIKADO",
+   "urlSlugText": "mikado-milch",
+   "urlSlugTextAlternatives": {
+    "de-CH": "mikado-milch",
+    "fr-CH": "mikado-lait",
+    "it-CH": "mikado-latte"
+   },
+   "ageRestriction": null,
+   "alcohol": null,
+   "discontinued": false,
+   "discontinuedNote": null,
+   "notForSale": true,
+   "notForSaleReason": null,
+   "quantityMin": 1,
+   "quantityMax": 99,
+   "quantityInterval": 1,
+   "quantityDefault": 1,
+   "quantityUnit": "pac",
+   "weightType": "0",
+   "sellingSize": "225 g",
+   "energyClass": null,
+   "onSaleDateDisplay": "verfügbar seit 14.09.2026",
+   "onSaleDate": "2026-09-14",
+   "isAbstract": false,
+   "abstractSku": "000000000000290628A",
+   "isDropship": false,
+   "sellingUnitDisplay": null,
+   "price": {
+    "amount": 589,
+    "amountRelevant": 589,
+    "amountRelevantDisplay": "CHF 5.89",
+    "bottleDeposit": 0,
+    "bottleDepositDisplay": "CHF 0.00",
+    "comparison": 262,
+    "comparisonDisplay": "CHF 2.62/100 g",
+    "currencyCode": "CHF",
+    "currencySymbol": "CHF",
+    "perUnit": null,
+    "perUnitDisplay": null,
+    "wasPriceDisplay": null,
+    "additionalInfo": null,
+    "savingsDisplay": null,
+    "bottleDepositType": null,
+    "feeText": null
+   },
+   "countryExtensions": null,
+   "categories": [],
+   "assets": [
+    {
+     "url": "https://dm.emea.cms.aldi.cx/is/image/aldiprodeu/product/jpg/scaleWidth/{width}/cc26b495-3dc5-46c4-a5fd-46e5fefa2673/{slug}",
+     "maxWidth": 2000,
+     "maxHeight": 2000,
+     "mimeType": "image/*",
+     "assetType": "FR01",
+     "alt": null,
+     "displayName": null
+    }
+   ],
+   "badges": []
+  },
+  {
+   "sku": "000000000000525709",
+   "name": "BIO-Milch",
+   "brandName": "RETOUR AUX SOURCES",
+   "urlSlugText": "retour-aux-sources-bio-milch",
+   "urlSlugTextAlternatives": {
+    "de-CH": "retour-aux-sources-bio-milch",
+    "fr-CH": "retour-aux-sources-lait-bio",
+    "it-CH": "retour-aux-sources-latte-bio"
+   },
+   "ageRestriction": null,
+   "alcohol": null,
+   "discontinued": false,
+   "discontinuedNote": null,
+   "notForSale": true,
+   "notForSaleReason": null,
+   "quantityMin": 1,
+   "quantityMax": 99,
+   "quantityInterval": 1,
+   "quantityDefault": 1,
+   "quantityUnit": "ea",
+   "weightType": "0",
+   "sellingSize": "1 l",
+   "energyClass": null,
+   "onSaleDateDisplay": null,
+   "onSaleDate": null,
+   "isAbstract": false,
+   "abstractSku": "000000000000525709A",
+   "isDropship": false,
+   "sellingUnitDisplay": null,
+   "price": {
+    "amount": 189,
+    "amountRelevant": 189,
+    "amountRelevantDisplay": "CHF 1.89",
+    "bottleDeposit": 0,
+    "bottleDepositDisplay": "CHF 0.00",
+    "comparison": null,
+    "comparisonDisplay": null,
+    "currencyCode": "CHF",
+    "currencySymbol": "CHF",
+    "perUnit": null,
+    "perUnitDisplay": null,
+    "wasPriceDisplay": null,
+    "additionalInfo": null,
+    "savingsDisplay": null,
+    "bottleDepositType": null,
+    "feeText": null
+   },
+   "countryExtensions": null,
+   "categories": [
+    {
+     "id": "1588161418433052",
+     "name": "Retour aux sources (Bio)",
+     "urlSlugText": "retour-aux-sources-bio-"
+    },
+    {
+     "id": "158816141843305204",
+     "name": "Milch & Milchprodukte",
+     "urlSlugText": "retour-aux-sources-bio-/milch-milchprodukte"
+    }
+   ],
+   "assets": [
+    {
+     "url": "https://dm.emea.cms.aldi.cx/is/image/aldiprodeu/product/jpg/scaleWidth/{width}/95625f16-a901-453b-853d-3c19b9d3cb4c/{slug}",
+     "maxWidth": 2000,
+     "maxHeight": 2000,
+     "mimeType": "image/*",
+     "assetType": "FR01",
+     "alt": null,
+     "displayName": null
+    }
+   ],
+   "badges": [
+    {
+     "position": "4",
+     "items": [
+      {
+       "url": null,
+       "alt": null,
+       "displayText": "Gekühlt",
+       "color": "cyan",
+       "mimeType": "text/plain"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "sku": "000000000000550443",
+   "name": "Branches, Milch",
+   "brandName": "LA COUR CHOCOLATERIE",
+   "urlSlugText": "la-cour-chocolaterie-branches-milch",
+   "urlSlugTextAlternatives": {
+    "de-CH": "la-cour-chocolaterie-branches-milch",
+    "fr-CH": "la-cour-chocolaterie-branches-au-chocolat-au-lait",
+    "it-CH": "la-cour-chocolaterie-branches-al-cioccolato-al-latte"
+   },
+   "ageRestriction": null,
+   "alcohol": null,
+   "discontinued": false,
+   "discontinuedNote": null,
+   "notForSale": true,
+   "notForSaleReason": null,
+   "quantityMin": 1,
+   "quantityMax": 99,
+   "quantityInterval": 1,
+   "quantityDefault": 1,
+   "quantityUnit": "ea",
+   "weightType": "0",
+   "sellingSize": "227.5 g",
+   "energyClass": null,
+   "onSaleDateDisplay": null,
+   "onSaleDate": null,
+   "isAbstract": false,
+   "abstractSku": "000000000000550443A",
+   "isDropship": false,
+   "sellingUnitDisplay": null,
+   "price": {
+    "amount": 389,
+    "amountRelevant": 389,
+    "amountRelevantDisplay": "CHF 3.89",
+    "bottleDeposit": 0,
+    "bottleDepositDisplay": "CHF 0.00",
+    "comparison": 171,
+    "comparisonDisplay": "CHF 1.71/100 g",
+    "currencyCode": "CHF",
+    "currencySymbol": "CHF",
+    "perUnit": null,
+    "perUnitDisplay": null,
+    "wasPriceDisplay": "CHF 4.59",
+    "additionalInfo": null,
+    "savingsDisplay": null,
+    "bottleDepositType": null,
+    "feeText": null
+   },
+   "countryExtensions": null,
+   "categories": [
+    {
+     "id": "1588161431768066",
+     "name": "Tiefpreisversprechen",
+     "urlSlugText": "tiefpreisversprechen"
+    }
+   ],
+   "assets": [
+    {
+     "url": "https://dm.emea.cms.aldi.cx/is/image/aldiprodeu/product/jpg/scaleWidth/{width}/ea4a050f-f9a3-4ea4-8c01-8a08b1fef73f/{slug}",
+     "maxWidth": 2000,
+     "maxHeight": 2000,
+     "mimeType": "image/*",
+     "assetType": "FR01",
+     "alt": null,
+     "displayName": null
+    }
+   ],
+   "badges": [
+    {
+     "position": "1",
+     "items": [
+      {
+       "url": "https://dm.emea.cms.aldi.cx/is/image/aldiprodeu/pik_swiss_made_287x287px-1:1-1?fmt=png-alpha",
+       "alt": "Swiss Made label with red ribbon and white cross",
+       "displayText": null,
+       "color": null,
+       "mimeType": "image/*"
+      }
+     ]
+    },
+    {
+     "position": "4",
+     "items": [
+      {
+       "url": null,
+       "alt": null,
+       "displayText": "Tiefpreis",
+       "color": "red",
+       "mimeType": "text/plain"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

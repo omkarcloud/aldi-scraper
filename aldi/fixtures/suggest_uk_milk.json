@@ -1,0 +1,190 @@
+{
+ "data": {
+  "completions": [
+   "Milk",
+   "Milk Almond",
+   "Milk Belgian",
+   "Milk Chocolate",
+   "Milk Chocolate Buttons"
+  ],
+  "products": [
+   {
+    "sku": "000000000000543221",
+    "name": "Chocolate Milk",
+    "brandName": "COWBELLE",
+    "urlSlugText": "cowbelle-chocolate-milk",
+    "urlSlugTextAlternatives": [],
+    "ageRestriction": null,
+    "alcohol": null,
+    "discontinued": false,
+    "discontinuedNote": null,
+    "notForSale": true,
+    "notForSaleReason": null,
+    "quantityMin": 1,
+    "quantityMax": 99,
+    "quantityInterval": 1,
+    "quantityDefault": 1,
+    "quantityUnit": "ea",
+    "weightType": "0",
+    "sellingSize": "1 L",
+    "energyClass": null,
+    "onSaleDateDisplay": null,
+    "onSaleDate": null,
+    "isAbstract": false,
+    "abstractSku": "000000000000543221A",
+    "isDropship": false,
+    "sellingUnitDisplay": null,
+    "price": {
+     "amount": 95,
+     "amountRelevant": 95,
+     "amountRelevantDisplay": "£0.95",
+     "bottleDeposit": 0,
+     "bottleDepositDisplay": "£0.00",
+     "comparison": 95,
+     "comparisonDisplay": "£0.95/1 L",
+     "currencyCode": "GBP",
+     "currencySymbol": "£",
+     "perUnit": null,
+     "perUnitDisplay": null,
+     "wasPriceDisplay": null,
+     "additionalInfo": null,
+     "savingsDisplay": null,
+     "bottleDepositType": null,
+     "feeText": null
+    },
+    "countryExtensions": null,
+    "categories": [
+     {
+      "id": "1588161416978051",
+      "name": "Chilled Food",
+      "urlSlugText": "chilled-food"
+     },
+     {
+      "id": "1588161416978051001",
+      "name": "Milk",
+      "urlSlugText": "chilled-food/milk"
+     }
+    ],
+    "assets": [
+     {
+      "url": "https://dm.emea.cms.aldi.cx/is/image/aldiprodeu/product/jpg/scaleWidth/{width}/ae7ef580-7dba-4552-aa82-4c12b37db36e/{slug}",
+      "maxWidth": 1500,
+      "maxHeight": 1500,
+      "mimeType": "image/*",
+      "assetType": "FR01",
+      "alt": null,
+      "displayName": null
+     }
+    ],
+    "badges": []
+   },
+   {
+    "sku": "000000000000422329",
+    "name": "Lactose Free Milk",
+    "brandName": "COWBELLE",
+    "urlSlugText": "cowbelle-lactose-free-milk",
+    "urlSlugTextAlternatives": [],
+    "ageRestriction": null,
+    "alcohol": null,
+    "discontinued": false,
+    "discontinuedNote": null,
+    "notForSale": true,
+    "notForSaleReason": null,
+    "quantityMin": 1,
+    "quantityMax": 99,
+    "quantityInterval": 1,
+    "quantityDefault": 1,
+    "quantityUnit": "ea",
+    "weightType": "0",
+    "sellingSize": "1 L",
+    "energyClass": null,
+    "onSaleDateDisplay": null,
+    "onSaleDate": null,
+    "isAbstract": false,
+    "abstractSku": "000000000000422329A",
+    "isDropship": false,
+    "sellingUnitDisplay": null,
+    "price": {
+     "amount": 99,
+     "amountRelevant": 99,
+     "amountRelevantDisplay": "£0.99",
+     "bottleDeposit": 0,
+     "bottleDepositDisplay": "£0.00",
+     "comparison": 99,
+     "comparisonDisplay": "£0.99/1 L",
+     "currencyCode": "GBP",
+     "currencySymbol": "£",
+     "perUnit": null,
+     "perUnitDisplay": null,
+     "wasPriceDisplay": null,
+     "additionalInfo": null,
+     "savingsDisplay": null,
+     "bottleDepositType": null,
+     "feeText": null
+    },
+    "countryExtensions": null,
+    "categories": [
+     {
+      "id": "1588161416978051",
+      "name": "Chilled Food",
+      "urlSlugText": "chilled-food"
+     },
+     {
+      "id": "1588161416978051001",
+      "name": "Milk",
+      "urlSlugText": "chilled-food/milk"
+     }
+    ],
+    "assets": [
+     {
+      "url": "https://dm.emea.cms.aldi.cx/is/image/aldiprodeu/product/jpg/scaleWidth/{width}/5dc3c25a-94e0-4447-8696-6a7c174f3757/{slug}",
+      "maxWidth": 1500,
+      "maxHeight": 1500,
+      "mimeType": "image/*",
+      "assetType": "FR01",
+      "alt": null,
+      "displayName": null
+     }
+    ],
+    "badges": []
+   }
+  ],
+  "categories": [
+   {
+    "name": "Food Cupboard",
+    "urlSlugText": "food-cupboard",
+    "categoryKey": "1588161416978053",
+    "docCount": 46,
+    "thumbnail": null
+   },
+   {
+    "name": "Chilled Food",
+    "urlSlugText": "chilled-food",
+    "categoryKey": "1588161416978051",
+    "docCount": 37,
+    "thumbnail": null
+   },
+   {
+    "name": "Milk",
+    "urlSlugText": "chilled-food/milk",
+    "categoryKey": "1588161416978051001",
+    "docCount": 34,
+    "thumbnail": null
+   },
+   {
+    "name": "Chocolate & Sweets",
+    "urlSlugText": "food-cupboard/chocolate-sweets",
+    "categoryKey": "1588161416978053003",
+    "docCount": 26,
+    "thumbnail": null
+   },
+   {
+    "name": "Biscuits & Crackers",
+    "urlSlugText": "food-cupboard/biscuits-crackers",
+    "categoryKey": "1588161416978053001",
+    "docCount": 14,
+    "thumbnail": null
+   }
+  ]
+ }
+}

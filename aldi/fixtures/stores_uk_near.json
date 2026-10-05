@@ -1,0 +1,119 @@
+{
+ "data": [
+  {
+   "name": "90-100 Edgware Road",
+   "alcoholAvailability": [
+    "Beer",
+    "Wine"
+   ],
+   "publicPhoneNumber": null,
+   "facilities": [],
+   "address": {
+    "countryName": "United Kingdom",
+    "countryIsoCode": "GB",
+    "regionName": "London",
+    "regionIsoCode": "LND",
+    "address1": "90-100 Edgware Road",
+    "address2": null,
+    "address3": null,
+    "city": "London",
+    "zipCode": "W2 2EA",
+    "district": "London",
+    "latitude": "51.51565900000000",
+    "longitude": "-0.16336001000000"
+   },
+   "id": "K296",
+   "availableCustomerServiceTypes": [
+    "walk-in"
+   ],
+   "distance": "1.6 mi",
+   "geofencing": {
+    "enabled": false,
+    "geofences": {
+     "inner": 5,
+     "outer": 10
+    }
+   },
+   "isOpenNow": true
+  },
+  {
+   "name": "205 Old Street",
+   "alcoholAvailability": [
+    "Beer",
+    "Wine"
+   ],
+   "publicPhoneNumber": null,
+   "facilities": [],
+   "address": {
+    "countryName": "United Kingdom",
+    "countryIsoCode": "GB",
+    "regionName": "London",
+    "regionIsoCode": "LND",
+    "address1": "205 Old Street",
+    "address2": null,
+    "address3": null,
+    "city": "Old Street",
+    "zipCode": "EC1V 9QN",
+    "district": "Old Street",
+    "latitude": "51.52580000000000",
+    "longitude": "-0.08946000000000"
+   },
+   "id": "K200",
+   "availableCustomerServiceTypes": [
+    "walk-in"
+   ],
+   "distance": "2.1 mi",
+   "geofencing": {
+    "enabled": false,
+    "geofences": {
+     "inner": 5,
+     "outer": 10
+    }
+   },
+   "isOpenNow": true
+  },
+  {
+   "name": "125-133 Camden High Street",
+   "alcoholAvailability": [
+    "Beer",
+    "Wine"
+   ],
+   "publicPhoneNumber": null,
+   "facilities": [],
+   "address": {
+    "countryName": "United Kingdom",
+    "countryIsoCode": "GB",
+    "regionName": "London",
+    "regionIsoCode": "LND",
+    "address1": "125-133 Camden High Street",
+    "address2": null,
+    "address3": null,
+    "city": "Camden",
+    "zipCode": "NW1 7JR",
+    "district": "Camden",
+    "latitude": "51.53755800000000",
+    "longitude": "-0.14176023000000"
+   },
+   "id": "K196",
+   "availableCustomerServiceTypes": [
+    "walk-in"
+   ],
+   "distance": "2.2 mi",
+   "geofencing": {
+    "enabled": false,
+    "geofences": {
+     "inner": 5,
+     "outer": 10
+    }
+   },
+   "isOpenNow": true
+  }
+ ],
+ "meta": {
+  "pagination": {
+   "offset": 0,
+   "limit": 3,
+   "totalCount": 7
+  }
+ }
+}

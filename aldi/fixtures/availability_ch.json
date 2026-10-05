@@ -1,0 +1,87 @@
+{
+ "data": [
+  {
+   "servicePointReference": "E108",
+   "availabilityTrafficLight": "orange",
+   "stockInfoDisplay": "Medium stock",
+   "servicePointName": "Zollstrasse 58",
+   "distance": "0.8 km",
+   "availableCustomerServiceTypes": [
+    "walk-in"
+   ],
+   "address": {
+    "countryName": "Switzerland",
+    "countryIsoCode": "CH",
+    "regionName": "Zürich",
+    "regionIsoCode": "ZH",
+    "address1": "Zollstrasse 58",
+    "address2": null,
+    "address3": null,
+    "city": "Zürich",
+    "zipCode": "8005",
+    "district": "Zürich",
+    "latitude": "47.38085100000000",
+    "longitude": "8.53330700000000"
+   }
+  },
+  {
+   "servicePointReference": "E190",
+   "availabilityTrafficLight": "red",
+   "stockInfoDisplay": "Low/no stock",
+   "servicePointName": "Stadelhoferstrasse 10",
+   "distance": "1.2 km",
+   "availableCustomerServiceTypes": [
+    "walk-in"
+   ],
+   "address": {
+    "countryName": "Switzerland",
+    "countryIsoCode": "CH",
+    "regionName": "Zürich",
+    "regionIsoCode": "ZH",
+    "address1": "Stadelhoferstrasse 10",
+    "address2": null,
+    "address3": null,
+    "city": "Zürich",
+    "zipCode": "8001",
+    "district": "Zürich",
+    "latitude": "47.36678900000000",
+    "longitude": "8.54800100000000"
+   }
+  },
+  {
+   "servicePointReference": "E118",
+   "availabilityTrafficLight": "orange",
+   "stockInfoDisplay": "Medium stock",
+   "servicePointName": "Badenerstrasse 565",
+   "distance": "3.4 km",
+   "availableCustomerServiceTypes": [
+    "walk-in"
+   ],
+   "address": {
+    "countryName": "Switzerland",
+    "countryIsoCode": "CH",
+    "regionName": "Zürich",
+    "regionIsoCode": "ZH",
+    "address1": "Badenerstrasse 565",
+    "address2": null,
+    "address3": null,
+    "city": "Zürich (Altstetten)",
+    "zipCode": "8048",
+    "district": "Zürich (Altstetten)",
+    "latitude": "47.38381030000000",
+    "longitude": "8.49762229999900"
+   }
+  }
+ ],
+ "meta": {
+  "pagination": {
+   "offset": 0,
+   "limit": 3,
+   "totalCount": 10
+  },
+  "sort": {
+   "currentSortParam": "distance",
+   "currentSortOrder": "asc"
+  }
+ }
+}

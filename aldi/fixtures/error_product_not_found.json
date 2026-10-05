@@ -1,0 +1,12 @@
+{
+ "status": 404,
+ "body": {
+  "errors": [
+   {
+    "code": "3202",
+    "message": "Concrete product not found.",
+    "context": []
+   }
+  ]
+ }
+}
