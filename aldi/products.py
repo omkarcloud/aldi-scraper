@@ -134,6 +134,7 @@ def availability(product, store, location, radius, only_in_stock, page, country,
     place; with neither, in the shop's default store (/aldi/countries
     `default_store_id`). The shops publish stock only for part of their range
     (a product's `has_stock_information`); anything else answers 404."""
+    given_store = store
     if not store and not location:
         from aldi import stores
         store = stores.shop_config(country).get("default_store_id")
@@ -154,11 +155,11 @@ def availability(product, store, location, radius, only_in_stock, page, country,
     except fetch.AldiNotFound as e:
         if e.code == fetch.NO_STOCK_DATA_CODE:
             raise fetch.AldiNotFound(f"{shop_name(country)} publishes no stock information for product '{product}'.")
-        if store:
+        if given_store:
             raise unknown_store(store, country)
         raise
     except fetch.AldiBadRequest as e:
-        if store and "servicePointReference" in str(e):
+        if given_store and "servicePointReference" in str(e):
             raise unknown_store(store, country)
         raise
     pagination = parsers.pagination(payload, page, STOCK_PER_PAGE)
